@@ -1,0 +1,5 @@
+region-name = "us-east-1"
+instance_type = "t3.small"
+vpc_name = "Devops vpc"
+env = "prod"
+name = "prod-jenkins-server"  
